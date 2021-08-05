@@ -1,3 +1,10 @@
+/*************************************************************/
+/* File Name : malloc_calloc.c                               */
+/*             demostrate two identical different ways       */
+/*             to allocate memory using malloc and calloc    */
+/* Author(s) : Ludwig Zhao                                   */
+/*************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,15 +1,15 @@
-###########################################################################
-## File Name : Makeile 		    									     ##
-## Purpose   : CIT 593 Week 11 Recitation                                ##
-##             Makefile 		    									 ##
-## Author(s) : Ludwig Zhao 		 									     ##
-###########################################################################
+###############################################
+## File Name : Makeile 		    			 ##
+## Purpose   : CIT 593 Week 13 Recitation    ##
+##             Makefile 		    		 ##
+## Author(s) : Ludwig Zhao 		 			 ##
+###############################################
 
 CC = clang
 CFLAGS = -Wall -g
 INCLUDES =
 LFLAGS =
-MAINS = malloc_calloc students segfault_demo valgrind_demo
+MAINS = malloc_calloc students segfault_demo valgrind_demo heap_demo
 
 .PHONY: clean
 

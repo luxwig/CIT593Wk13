@@ -1,3 +1,9 @@
+/********************************************************************/
+/* File Name : segfault_demo.c                                      */
+/*             an example of how to use gdb to debug the segfault   */
+/* Author(s) : Ludwig Zhao                                          */
+/********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

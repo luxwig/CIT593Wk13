@@ -1,3 +1,10 @@
+/*********************************************************/
+/* File Name : students.c                                */
+/*             an example of using singly linked list    */
+/*             to implement student gradebook            */
+/* Author(s) : Ludwig Zhao                               */
+/*********************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

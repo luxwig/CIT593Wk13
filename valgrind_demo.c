@@ -1,3 +1,10 @@
+/*******************************************************/
+/* File Name : valgrind_demo.c                         */
+/*             4 examples of 3 common valgrind errors  */
+/* Author(s) : Ludwig Zhao                             */
+/*******************************************************/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
